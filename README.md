@@ -7,7 +7,7 @@ Regressor implementation over the [dataset `insurance.csv`](https://www.kaggle.c
 - `bmi`,
 - `children`,
 - `smoker`,
-- `region'
+- `region`
 also it contains target values `charges`.
 
 Executed structures in this implementation were:
