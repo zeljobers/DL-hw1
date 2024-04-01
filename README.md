@@ -16,5 +16,6 @@ Executed structures in this implementation were:
 - RandomForestRegressor,
 - DNN with Dropout functionality.
 
-Students: Dalibor Rajković, Željko Simić
-Mentor: Miloš Kotlar
+**Students:** Dalibor Rajković, Željko Simić
+
+**Mentor:** Miloš Kotlar
